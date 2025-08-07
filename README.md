@@ -12,7 +12,7 @@
 
 ---
 
-- 🔭 Currently working out of the Batcave on: **Goods Management and Resources Tracking**
+- 🔭 Currently working out of the Batcave on: **RAIDER APPLICATION**
 - 💼 Currently sharpening my **Team Leading** skills and mastering **DSA**
 - 🧠 You can interrogate me about: **Mobile App Development, Web Development**
 - 📬 Reach me via Bat-Signal (or email): **priyanshurangari60@gmail.com**
